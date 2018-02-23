@@ -1,0 +1,11 @@
+{
+  "name": "udacity_responsive-fundamentals_project03_home",
+  "version": "0.1.0",
+  "author": "Claudio Gavioli",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-compass": "~0.6.0"
+  }
+}
